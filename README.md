@@ -15,3 +15,9 @@ To install the required packages, run the following command in the project direc
 ```python
 pip install -r requirements.txt
 ```
+
+## Usage 
+To run the application, run the following command in the project directory:
+```python
+streamlit run app.py
+``` 
